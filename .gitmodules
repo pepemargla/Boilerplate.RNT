@@ -1,0 +1,6 @@
+[submodule "production"]
+	path = production
+	url = git@github.com:pepemargla/Boilerplate.RNT-Production.git
+[submodule "API"]
+	path = API
+	url = git@github.com:pepemargla/Boilerplate.RNT-API.git
